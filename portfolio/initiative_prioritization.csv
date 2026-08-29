@@ -1,0 +1,5 @@
+initiative,reach_1_10,impact_1_10,confidence,effort_person_weeks,priority_score,primary_kpi,rationale
+Smart retry + downtime-aware routing,9,9,0.85,5,13.77,Success rate / recovered GMV,Largest addressable retry-eligible failure pool and direct revenue impact
+Failure-specific customer messaging,8,7,0.90,3,16.80,Support ticket rate / repeat failures,Low effort and improves recovery for authentication and data-entry failures
+Merchant integration quality checks,5,8,0.80,4,8.00,Business-source failure rate,Prevents configuration failures and reduces avoidable operational incidents
+Market/method monitoring & alerts,10,6,0.95,4,14.25,Time to detect / success-rate variance,Creates operating visibility and faster escalation for systemic issues
