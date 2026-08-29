@@ -1,0 +1,5 @@
+phase,weeks,objective,key_deliverables,decision_gate,kpi,stakeholders
+Diagnose,1-2,Validate priority failure drivers,"Baseline dashboard; failure taxonomy; merchant/market segmentation",Top 3 failure drivers confirmed,"Success rate baseline; failure share","Product; Operations; Data; Engineering"
+Design,3-4,Define recovery interventions,"Retry rules; customer messaging; alert thresholds; requirements",Pilot scope approved,"Projected lift; implementation effort","Product; Engineering; Risk"
+Pilot,5-8,Test highest-priority interventions,Controlled rollout to selected market/method segments,Pilot meets guardrails,"Recovered GMV; ticket rate; error rate","Operations; Support; Engineering"
+Scale,9-12,Operationalize and expand,"Dashboards; playbooks; monitoring; rollout plan",Scale decision,"Success-rate lift; incident detection time","Leadership; Product; Operations"
